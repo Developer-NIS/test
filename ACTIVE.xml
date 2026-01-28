@@ -9,7 +9,7 @@
                 <availability available="yes" storeId="30271425_PP1" preOrder="0" stockCount="10000.0"/>
             </availabilities>
             <cityprices>
-                <cityprice cityId="511010000">4790</cityprice>
+                <cityprice cityId="511010000">4690</cityprice>
             </cityprices>
         </offer>
         <offer sku="153721369_374447818">
