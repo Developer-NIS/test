@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?><kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://kaspi.kz/kaspishopping.xsd" date="2026-01-28 00:54">
+    <company>30271425</company>
+    <merchantid>30271425</merchantid>
+    <offers>
+        <offer sku="115709312_819014913">
+            <model>Gesture светодиодный дисплей 92920</model>
+            <brand>gesture</brand>
+            <availabilities>
+                <availability available="yes" storeId="30271425_PP1" preOrder="0" stockCount="10000.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="511010000">4790</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="153721369_374447818">
+            <model>Электродвигатель IEK DRV071-B4-000-7-1530 0.75 кВт 1500 об/мин</model>
+            <brand>IEK</brand>
+            <availabilities>
+                <availability available="yes" storeId="30271425_PP1" preOrder="0" stockCount="1.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="511010000">79000</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="Лазерный гравировочный маркиратор 30w">
+            <model>Лазерный маркиратор Raycus QS 30w</model>
+            <brand/>
+            <availabilities>
+                <availability available="yes" storeId="30271425_PP1" preOrder="0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="511010000">897000</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="121187736_720319605">
+            <model>Светодиодная лента 5 м</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30271425_PP1" preOrder="0" stockCount="2.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="511010000">6900</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="121170058_069998727">
+            <model>Светодиодная лента 5 м</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30271425_PP1" preOrder="0" stockCount="2.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="511010000">3800</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="139564451_946240610">
+            <model>Электродвигатель КАСТОН АИР71B4 0.75 кВт 1500 об/мин</model>
+            <brand>КАСТОН</brand>
+            <availabilities>
+                <availability available="yes" storeId="30271425_PP1" preOrder="0" stockCount="1.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="511010000">40000</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="121170106_528168778">
+            <model>Светодиодная лента 5 м</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30271425_PP1" preOrder="0" stockCount="2.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="511010000">2900</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="Лазерный маркиратор Raycus 30w">
+            <model>Лазерный маркиратор AsiaLaser RL2</model>
+            <brand>AsiaLaser</brand>
+            <availabilities>
+                <availability available="yes" storeId="30271425_PP1" preOrder="0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="511010000">960000</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="137900592_564712562">
+            <model>Светодиодная лента 5 м</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30271425_PP1" preOrder="0" stockCount="2.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="511010000">5400</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="213963435">
+            <model>Электродвигатель 0.75 кВт 1500 об/мин</model>
+            <brand/>
+            <availabilities>
+                <availability available="yes" storeId="30271425_PP1" preOrder="0" stockCount="1.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="511010000">74000</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="123832243_199685291">
+            <model>Трансформатор тока HB-60W-12V для сухих помещений</model>
+            <brand/>
+            <availabilities>
+                <availability available="yes" storeId="30271425_PP1" preOrder="0" stockCount="2.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="511010000">3100</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="121170069_559387574">
+            <model>Светодиодная лента 5 м</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30271425_PP1" preOrder="0" stockCount="2.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="511010000">2600</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="115871564_724837525">
+            <model>Электродвигатель 5АИ 01.01.213622 0.75 кВт 3000 об/мин</model>
+            <brand>5АИ</brand>
+            <availabilities>
+                <availability available="yes" storeId="30271425_PP1" preOrder="0" stockCount="1.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="511010000">29000</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="117728169_167289241">
+            <model>SKF подшипник 6201-ZZ</model>
+            <brand>SKF</brand>
+            <availabilities>
+                <availability available="yes" storeId="30271425_PP1" preOrder="0" stockCount="28.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="511010000">1800</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="118745782">
+            <model>Лазерный маркиратор Лазерный маркиратор Raycus 30w</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30271425_PP1" preOrder="0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="511010000">960000</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="143898928_941366732">
+            <model>Электродвигатель WEG 12312786 0.75 кВт 1500 об/мин</model>
+            <brand>WEG</brand>
+            <availabilities>
+                <availability available="yes" storeId="30271425_PP1" preOrder="0" stockCount="1.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="511010000">53000</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="456625359">
+            <model>Видеодомофон серый</model>
+            <brand/>
+            <availabilities>
+                <availability available="yes" storeId="30271425_PP1" preOrder="0" stockCount="3.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="511010000">29000</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="109225772_831777056">
+            <model>JINBO блок питания JLV-12045КА-W</model>
+            <brand>jinbo</brand>
+            <availabilities>
+                <availability available="yes" storeId="30271425_PP1" preOrder="0" stockCount="15.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="511010000">3397</cityprice>
+            </cityprices>
+        </offer>
+    </offers>
+</kaspi_catalog>
